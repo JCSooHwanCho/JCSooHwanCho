@@ -1,4 +1,8 @@
-### Hi there 👋
+### SooHwan Cho, Joshua, Rhyno
+I work as software engineer who makes application running on 🍎.
+
+#### Shared Materials
+[My own WWDC Notes(Korean Only)](https://www.notion.so/WWDC-aee83bc374e94ac5b4ec7b7522b82f7a?pvs=4)
 
 <!--
 **JCSooHwanCho/JCSooHwanCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
